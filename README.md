@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **Mobile Develpoment**
 - 📫 How to reach me: **adriandleon@gmail.com**
-- 😄 Pronouns: **he | his**
 - ⚡ I speak: **spanish | english**
 
 <!-- Profile View Count -->
