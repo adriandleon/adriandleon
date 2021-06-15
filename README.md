@@ -13,14 +13,8 @@ Here are some ideas to get you started:
 [![Medium](https://img.shields.io/badge/-@adriandleon-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@adriandleon)
 [![Google Playstore](https://img.shields.io/badge/-Play_Store_Apps-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=JAP+System+C.A.)
 
-<p>
-  <samp>
-    I am an Android Developer <img src="https://emojis.slackmojis.com/emojis/images/1519294713/3574/android.png?1519294713" width="20"/> and Flutter enthusiast <img src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362" width="20"/> from Venezuela.
-  </samp>
-</p>
-
 - 🔭 I’m currently working on **Native Android Develpoment**
-- 🌱 I’m currently learning **[Jetpack Compose](https://developer.android.com/jetpack/compose) | [Flutter](https://flutter.dev/)**
+- 🌱 I’m currently learning **[Jetpack Compose](https://developer.android.com/jetpack/compose)
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **Mobile Develpoment**
 - 📫 How to reach me: **adriandleon@gmail.com**
