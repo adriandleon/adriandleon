@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 [![Google Playstore](https://img.shields.io/badge/-Play_Store_Apps-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=JAP+System+C.A.)
 
 - 🔭 I’m currently working on **Native Android Develpoment**
-- 🌱 I’m currently learning **[Jetpack Compose](https://developer.android.com/jetpack/compose)
+- 🌱 I’m currently learning **[Jetpack Compose](https://developer.android.com/jetpack/compose)**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **Mobile Develpoment**
 - 📫 How to reach me: **adriandleon@gmail.com**
